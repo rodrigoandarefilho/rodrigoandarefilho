@@ -1,6 +1,4 @@
 ## Olá, meu nome é Rodrigo Andare Filho!
- 
-<img src="dev-steph.png" min-width="300px" max-width="300px" width="300px" align="right" alt="logo dev-steph">
 
 <p align="left"> 
 
@@ -23,6 +21,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rodrigoandarefilho/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/rodrigoandarefilho/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=#4CAAFA&link=https://www.linkedin.com/in/rodrigoandarefilho/"/>
   </a>
 </p>

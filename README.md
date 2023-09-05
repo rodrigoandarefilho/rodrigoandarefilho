@@ -21,6 +21,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rodrigoandarefilho/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-8A65B5?style=for-the-badge&logo=Linkedin&logoColor=#4CAAFA&link=https://www.linkedin.com/in/rodrigoandarefilho/"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoandarefilho/"/>
   </a>
 </p>

@@ -6,17 +6,21 @@
 </p>
 
 <p align="left">
-  Languagens, frameworks and tools: <strong>Java</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>PL/SQL</strong>,
- <strong>MySQL</strong>, <strong>Oracle</strong> e <strong>PostgreSQL</strong>, <strong>Spring</strong>, <strong>Rest</strong>, <strong>RestFull</strong>.
+## 🚀💻 Technologies & Tools </br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+</p> 
+ <strong>Java</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>PL/SQL</strong>,
+ <strong>MySQL</strong>, <strong>Oracle</strong> e <strong>PostgreSQL</strong>, <strong>Spring</strong>, <strong>Rest</strong>, <strong>RestFull</strong>,
+ <strong>HTML5</strong>, <strong>CSS3</strong>.
 </p>
 
 <p align="left">
-Iniciei minha carreira desenvolvendo aplicações e recentemente tive a oportunidade de trabalhar em uma multinacional como Full Stack
-em projetos web, onde pude ampliar meus conhecimentos em projetos desafiadores.
-Já trabalhei em projetos hospitalares e financeiros, tenho entusiasmo em compartilhar conhecimentos e colaborar em equipe, buscando criar um
-ambiente de trabalho colaborativo e aprendizado contínuo.
-Estou sempre em busca de desafios estimulantes, gosto de encontrar soluções tecnológicas e inovadoras e estou sempre em busca de aprimorar minhas habilidades para oferecer
-os melhores resultados. Aberto a novas oportunidades desafiadoras no desenvolvimento de software.
+I started my career developing applications and recently I had the opportunity to work in a multinational as Full Stack
+in web projects, where I could expand my knowledge in challenging projects.
+I have worked on hospital and financial projects, I am enthusiastic about sharing knowledge and collaborating as a team, seeking to create a
+collaborative work environment and continuous learning.
+I am always looking for stimulating challenges, I like to find technological and innovative solutions and I am always looking to improve my skills to offer
+the best results. Open to new challenging opportunities in software development.
 </p>
 <br>
 

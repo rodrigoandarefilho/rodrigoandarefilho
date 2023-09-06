@@ -1,4 +1,4 @@
-## Hi, Iam Rodrigo Andare Filho!
+## 🧑‍💻 Hi, Iam Rodrigo Andare Filho!
 
 <p align="left"> 
  <strong> Full Stack Developer, graduated in Technology in Telecommunications Management, with 5 years of experience in software development.
@@ -16,7 +16,7 @@
 
 </p>
 
-## 🚀💻 Technologies & Tools </br>
+## 💻 Technologies & Tools </br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)

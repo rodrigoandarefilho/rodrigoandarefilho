@@ -39,5 +39,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
